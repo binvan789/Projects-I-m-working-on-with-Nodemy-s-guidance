@@ -1,4 +1,4 @@
-# Projects-I-m-working-on-with-Nodemy-s-guidance
+# Projects I'm working on with Nodemy's guidance:
  |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
   | 01  | [Card Product](https://github.com/binvan789/CardProduct-Day1)                             | [Live Demo](https://binvan789.github.io/CardProduct-Day1/) 
