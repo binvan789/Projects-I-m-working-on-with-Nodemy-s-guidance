@@ -10,5 +10,6 @@
   | 07  | [Search Tags](https://github.com/binvan789/SearchTags-Day7)                             | [Live Demo](https://binvan789.github.io/SearchTags-Day7/) 
   | 08  | [Register Form Validator](https://github.com/binvan789/RegisterFormValidator-Day8)                             | [Live Demo](https://binvan789.github.io/RegisterFormValidator-Day8/)
   | 09  | [Weather App](https://github.com/binvan789/WeatherApp-Day9)                             | [Live Demo](https://binvan789.github.io/WeatherApp-Day9/) 
-  | 10  | [Todo List](https://github.com/binvan789/TodoList-Day10)                             | [Live Demo](https://binvan789.github.io/TodoList-Day10/) 
+  | 10  | [Todo List](https://github.com/binvan789/TodoList-Day10)                             | [Live Demo](https://binvan789.github.io/TodoList-Day10/)
+  | 11  | [Toast Notification](https://github.com/binvan789/ToastNotification-Day11)                             | [Live Demo](https://binvan789.github.io/ToastNotification-Day11/)
   
