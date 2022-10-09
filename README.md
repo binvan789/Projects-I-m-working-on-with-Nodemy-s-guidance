@@ -14,5 +14,5 @@
   | 11  | [Toast Notification](https://github.com/binvan789/ToastNotification-Day11)                             | [Live Demo](https://binvan789.github.io/ToastNotification-Day11/)
   | 12  | [Custom Range Slider](https://github.com/binvan789/CustomRangeSlider-Day12)                             | [Live Demo](https://binvan789.github.io/CustomRangeSlider-Day12/)
   | 13  | [Preview Image](https://github.com/binvan789/PreviewImage-Day13)                             | [Live Demo](https://binvan789.github.io/PreviewImage-Day13/)
-  | 13  | [Slide Show](https://github.com/binvan789/Slideshow-Day14)                             | [Live Demo](https://binvan789.github.io/Slideshow-Day14/)
+  | 14  | [Slide Show](https://github.com/binvan789/Slideshow-Day14)                             | [Live Demo](https://binvan789.github.io/Slideshow-Day14/)
   
